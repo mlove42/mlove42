@@ -5,7 +5,7 @@ I'm a full-stack developer based in sunny Los Angeles. My journey into software 
 
 At App Academy, I've had the chance to hone my skills in a variety of programming languages and frameworks, including Javascript, Python, Flask, HTML, CSS, SQL, React/Redux, and Express.js. One of my proudest projects I created thus far, is a full-stack application inspired by Medium.com - it was challenging, but incredibly rewarding to see it come to life!
 
-When I'm not coding, you can usually find me hanging out with my family and dog at the beach, or curling up with a good book. I'm passionate about building meaningful relationships with others, and I believe that the best software is created when developers work collaboratively and empathetically. Let's build something great together!"
+When I'm not coding, you can usually find me hanging out with my family and dog at the beach, or curling up with a good book. I'm passionate about building meaningful relationships with others, and I believe that the best software is created when developers work collaboratively and empathetically. Let's build something great together!
 
 ## My Skills 🌐
   * Languages: JavaScript, Python, HTML/CSS, SQL
